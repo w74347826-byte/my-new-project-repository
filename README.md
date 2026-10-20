@@ -26,5 +26,10 @@ This graph compares the ages of five people.
 
 Age: 35
 
+  ## Age Comparison Graph
+
+  ![Age Comparison Graph](./age_graph.png)
+  
+
 
 
