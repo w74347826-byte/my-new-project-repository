@@ -18,6 +18,11 @@
 
 **Lowest age:** 20 (Wajeeha)
 
+  ## Age Comparison Graph
+
+  ![Age Comparison Graph](./age_graph.png)
+  
+
 
   
 
