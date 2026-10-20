@@ -22,6 +22,15 @@
 
   ![Age Comparison Graph](./age_graph.png)
   
+```mermaid
+xychart-beta
+    title "Age Comparison Graph"
+    x-axis ["Wajeeha", "Aliba", "Areeba", "Maryam", "Daniya"]
+    y-axis "Age" 0 --> 45
+    bar [20, 25, 30, 40, 35]
+```
+
+  
 
 
   
