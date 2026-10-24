@@ -4,11 +4,11 @@
 
 | Name | Age | City |
 |---|---:|---|
-| Wajeeha | 20 | Multan |
+| Afeerah | 20 | Multan |
 | Aliba | 25 | Lahore |
-| Areeba | 30 | Islamabad |
-| Maryam | 40 | Karachi |
-| Daniya | 35 | Khanewal |
+| Rabia | 30 | Islamabad |
+| Mubeen | 40 | Karachi |
+| Hadia | 35 | Khanewal |
 
 **Total age:** 150
 
