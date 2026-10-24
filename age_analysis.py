@@ -3,11 +3,11 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
 people = [
-    ("Afeerah", 20),
+    ("Wajeeha", 20),
     ("Aliba", 25),
-    ("Rabia", 30),
-    ("Mubeen", 40),
-    ("Hadia", 35),
+    ("Areeba", 30),
+    ("Maryam", 40),
+    ("Daniya", 35),
 ]
 
 ages = [a for n, a in people]
